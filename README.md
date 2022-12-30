@@ -5,12 +5,12 @@ Vous devez *forker* ce projet dans votre espace de travail Gitlab (bouton `Fork`
 
 # Equipe
 
-- Lounès Meddahi
-- Yanis ARAB
-- Matthieu Medeng
+- Lounès Me***
+- Yanis A***
+- Matthieu M***
 - Ismail Chafi
 
-Groupe de projet: 6
+
 
 # Sujet
 
